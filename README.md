@@ -2,6 +2,8 @@
 Module for working with DIS
 
 ```python
+import dispy
+
 fpath = '/path/to/extract.csv'
 dis = dispy.DIS()
 dis.load_extract(fpath)
