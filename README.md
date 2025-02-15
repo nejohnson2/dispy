@@ -1,7 +1,7 @@
 # dispy
 Module for working with DIS
 
-```
+```python
 fpath = '/path/to/extract.csv'
 dis = dispy.DIS()
 dis.load_extract(fpath)
